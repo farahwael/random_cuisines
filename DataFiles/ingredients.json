@@ -1,0 +1,920 @@
+[
+  {
+    "ingredient_id": "103",
+    "category_id": "8",
+    "frequency_prob": "0.3475",
+    "frequency": "139"
+  },
+  {
+    "ingredient_id": "126",
+    "category_id": "8",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "127",
+    "category_id": "8",
+    "frequency_prob": "0.06",
+    "frequency": "24"
+  },
+  {
+    "ingredient_id": "123",
+    "category_id": "8",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "65",
+    "category_id": "8",
+    "frequency_prob": "0.1875",
+    "frequency": "75"
+  },
+  {
+    "ingredient_id": "37",
+    "category_id": "1",
+    "frequency_prob": "0.675",
+    "frequency": "270"
+  },
+  {
+    "ingredient_id": "49",
+    "category_id": "1",
+    "frequency_prob": "0.315",
+    "frequency": "126"
+  },
+  {
+    "ingredient_id": "128",
+    "category_id": "1",
+    "frequency_prob": "0.075",
+    "frequency": "30"
+  },
+  {
+    "ingredient_id": "60",
+    "category_id": "1",
+    "frequency_prob": "0.5725",
+    "frequency": "229"
+  },
+  {
+    "ingredient_id": "64",
+    "category_id": "1",
+    "frequency_prob": "0.1275",
+    "frequency": "51"
+  },
+  {
+    "ingredient_id": "59",
+    "category_id": "1",
+    "frequency_prob": "0.1275",
+    "frequency": "51"
+  },
+  {
+    "ingredient_id": "129",
+    "category_id": "1",
+    "frequency_prob": "0.0275",
+    "frequency": "11"
+  },
+  {
+    "ingredient_id": "68",
+    "category_id": "1",
+    "frequency_prob": "0.1975",
+    "frequency": "79"
+  },
+  {
+    "ingredient_id": "130",
+    "category_id": "1",
+    "frequency_prob": "0.0375",
+    "frequency": "15"
+  },
+  {
+    "ingredient_id": "81",
+    "category_id": "1",
+    "frequency_prob": "0.3175",
+    "frequency": "127"
+  },
+  {
+    "ingredient_id": "53",
+    "category_id": "1",
+    "frequency_prob": "0.0275",
+    "frequency": "11"
+  },
+  {
+    "ingredient_id": "131",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "132",
+    "category_id": "1",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "41",
+    "category_id": "1",
+    "frequency_prob": "0.105",
+    "frequency": "42"
+  },
+  {
+    "ingredient_id": "48",
+    "category_id": "1",
+    "frequency_prob": "0.0875",
+    "frequency": "35"
+  },
+  {
+    "ingredient_id": "177",
+    "category_id": "1",
+    "frequency_prob": "0.0425",
+    "frequency": "17"
+  },
+  {
+    "ingredient_id": "178",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "133",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "185",
+    "category_id": "1",
+    "frequency_prob": "0.1575",
+    "frequency": "63"
+  },
+  {
+    "ingredient_id": "110",
+    "category_id": "1",
+    "frequency_prob": "0.0225",
+    "frequency": "9"
+  },
+  {
+    "ingredient_id": "124",
+    "category_id": "1",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "187",
+    "category_id": "1",
+    "frequency_prob": "0.0975",
+    "frequency": "39"
+  },
+  {
+    "ingredient_id": "186",
+    "category_id": "1",
+    "frequency_prob": "0.0425",
+    "frequency": "17"
+  },
+  {
+    "ingredient_id": "134",
+    "category_id": "1",
+    "frequency_prob": "0.0225",
+    "frequency": "9"
+  },
+  {
+    "ingredient_id": "73",
+    "category_id": "1",
+    "frequency_prob": "0.0375",
+    "frequency": "15"
+  },
+  {
+    "ingredient_id": "136",
+    "category_id": "1",
+    "frequency_prob": "0.025",
+    "frequency": "10"
+  },
+  {
+    "ingredient_id": "56",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "7",
+    "category_id": "1",
+    "frequency_prob": "0.015",
+    "frequency": "6"
+  },
+  {
+    "ingredient_id": "135",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "137",
+    "category_id": "1",
+    "frequency_prob": "0.02",
+    "frequency": "8"
+  },
+  {
+    "ingredient_id": "138",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "139",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "188",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "94",
+    "category_id": "1",
+    "frequency_prob": "0.275",
+    "frequency": "110"
+  },
+  {
+    "ingredient_id": "52",
+    "category_id": "1",
+    "frequency_prob": "0.055",
+    "frequency": "22"
+  },
+  {
+    "ingredient_id": "140",
+    "category_id": "1",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "119",
+    "category_id": "1",
+    "frequency_prob": "0.1525",
+    "frequency": "61"
+  },
+  {
+    "ingredient_id": "114",
+    "category_id": "1",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "141",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "142",
+    "category_id": "1",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "36",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "143",
+    "category_id": "1",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "189",
+    "category_id": "1",
+    "frequency_prob": "0.0125",
+    "frequency": "5"
+  },
+  {
+    "ingredient_id": "20",
+    "category_id": "1",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "144",
+    "category_id": "1",
+    "frequency_prob": "0.03",
+    "frequency": "12"
+  },
+  {
+    "ingredient_id": "98",
+    "category_id": "1",
+    "frequency_prob": "0.02",
+    "frequency": "8"
+  },
+  {
+    "ingredient_id": "38",
+    "category_id": "1",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "145",
+    "category_id": "1",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "146",
+    "category_id": "1",
+    "frequency_prob": "0.105",
+    "frequency": "42"
+  },
+  {
+    "ingredient_id": "40",
+    "category_id": "6",
+    "frequency_prob": "0.71",
+    "frequency": "284"
+  },
+  {
+    "ingredient_id": "24",
+    "category_id": "6",
+    "frequency_prob": "0.3975",
+    "frequency": "159"
+  },
+  {
+    "ingredient_id": "47",
+    "category_id": "6",
+    "frequency_prob": "0.265",
+    "frequency": "106"
+  },
+  {
+    "ingredient_id": "184",
+    "category_id": "6",
+    "frequency_prob": "0.075",
+    "frequency": "30"
+  },
+  {
+    "ingredient_id": "22",
+    "category_id": "6",
+    "frequency_prob": "0.3625",
+    "frequency": "145"
+  },
+  {
+    "ingredient_id": "58",
+    "category_id": "6",
+    "frequency_prob": "0.3275",
+    "frequency": "131"
+  },
+  {
+    "ingredient_id": "147",
+    "category_id": "6",
+    "frequency_prob": "0.1475",
+    "frequency": "59"
+  },
+  {
+    "ingredient_id": "57",
+    "category_id": "6",
+    "frequency_prob": "0.23",
+    "frequency": "92"
+  },
+  {
+    "ingredient_id": "119",
+    "category_id": "6",
+    "frequency_prob": "0.235",
+    "frequency": "94"
+  },
+  {
+    "ingredient_id": "104",
+    "category_id": "6",
+    "frequency_prob": "0.0375",
+    "frequency": "15"
+  },
+  {
+    "ingredient_id": "80",
+    "category_id": "6",
+    "frequency_prob": "0.06",
+    "frequency": "24"
+  },
+  {
+    "ingredient_id": "115",
+    "category_id": "6",
+    "frequency_prob": "0.085",
+    "frequency": "34"
+  },
+  {
+    "ingredient_id": "14",
+    "category_id": "6",
+    "frequency_prob": "0.1675",
+    "frequency": "67"
+  },
+  {
+    "ingredient_id": "39",
+    "category_id": "6",
+    "frequency_prob": "0.1475",
+    "frequency": "59"
+  },
+  {
+    "ingredient_id": "19",
+    "category_id": "6",
+    "frequency_prob": "0.05",
+    "frequency": "20"
+  },
+  {
+    "ingredient_id": "17",
+    "category_id": "6",
+    "frequency_prob": "0.05",
+    "frequency": "20"
+  },
+  {
+    "ingredient_id": "110",
+    "category_id": "6",
+    "frequency_prob": "0.03",
+    "frequency": "12"
+  },
+  {
+    "ingredient_id": "148",
+    "category_id": "6",
+    "frequency_prob": "0.0525",
+    "frequency": "21"
+  },
+  {
+    "ingredient_id": "190",
+    "category_id": "6",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "191",
+    "category_id": "6",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "192",
+    "category_id": "6",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "32",
+    "category_id": "6",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "149",
+    "category_id": "6",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "193",
+    "category_id": "6",
+    "frequency_prob": "0.0225",
+    "frequency": "9"
+  },
+  {
+    "ingredient_id": "82",
+    "category_id": "6",
+    "frequency_prob": "0.045",
+    "frequency": "18"
+  },
+  {
+    "ingredient_id": "34",
+    "category_id": "9",
+    "frequency_prob": "0.365",
+    "frequency": "146"
+  },
+  {
+    "ingredient_id": "27",
+    "category_id": "9",
+    "frequency_prob": "0.4325",
+    "frequency": "173"
+  },
+  {
+    "ingredient_id": "109",
+    "category_id": "9",
+    "frequency_prob": "0.0975",
+    "frequency": "39"
+  },
+  {
+    "ingredient_id": "150",
+    "category_id": "9",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "74",
+    "category_id": "9",
+    "frequency_prob": "0.1075",
+    "frequency": "43"
+  },
+  {
+    "ingredient_id": "151",
+    "category_id": "3",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "116",
+    "category_id": "3",
+    "frequency_prob": "0.09",
+    "frequency": "36"
+  },
+  {
+    "ingredient_id": "89",
+    "category_id": "3",
+    "frequency_prob": "0.1125",
+    "frequency": "45"
+  },
+  {
+    "ingredient_id": "175",
+    "category_id": "3",
+    "frequency_prob": "0.07",
+    "frequency": "28"
+  },
+  {
+    "ingredient_id": "152",
+    "category_id": "3",
+    "frequency_prob": "0.0825",
+    "frequency": "33"
+  },
+  {
+    "ingredient_id": "153",
+    "category_id": "3",
+    "frequency_prob": "0.02",
+    "frequency": "8"
+  },
+  {
+    "ingredient_id": "23",
+    "category_id": "3",
+    "frequency_prob": "0.17",
+    "frequency": "68"
+  },
+  {
+    "ingredient_id": "154",
+    "category_id": "3",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "2",
+    "category_id": "3",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "66",
+    "category_id": "3",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "155",
+    "category_id": "3",
+    "frequency_prob": "0.015",
+    "frequency": "6"
+  },
+  {
+    "ingredient_id": "75",
+    "category_id": "4",
+    "frequency_prob": "0.1525",
+    "frequency": "61"
+  },
+  {
+    "ingredient_id": "51",
+    "category_id": "4",
+    "frequency_prob": "0.075",
+    "frequency": "30"
+  },
+  {
+    "ingredient_id": "117",
+    "category_id": "4",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "91",
+    "category_id": "4",
+    "frequency_prob": "0.0625",
+    "frequency": "25"
+  },
+  {
+    "ingredient_id": "183",
+    "category_id": "4",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "156",
+    "category_id": "4",
+    "frequency_prob": "0.025",
+    "frequency": "10"
+  },
+  {
+    "ingredient_id": "157",
+    "category_id": "4",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "158",
+    "category_id": "4",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "176",
+    "category_id": "4",
+    "frequency_prob": "0.0525",
+    "frequency": "21"
+  },
+  {
+    "ingredient_id": "77",
+    "category_id": "4",
+    "frequency_prob": "0.025",
+    "frequency": "10"
+  },
+  {
+    "ingredient_id": "159",
+    "category_id": "4",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "50",
+    "category_id": "4",
+    "frequency_prob": "0.0775",
+    "frequency": "31"
+  },
+  {
+    "ingredient_id": "181",
+    "category_id": "4",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "179",
+    "category_id": "4",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "180",
+    "category_id": "4",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "55",
+    "category_id": "4",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "120",
+    "category_id": "7",
+    "frequency_prob": "0.13",
+    "frequency": "52"
+  },
+  {
+    "ingredient_id": "54",
+    "category_id": "7",
+    "frequency_prob": "0.0725",
+    "frequency": "29"
+  },
+  {
+    "ingredient_id": "83",
+    "category_id": "7",
+    "frequency_prob": "0.0275",
+    "frequency": "11"
+  },
+  {
+    "ingredient_id": "42",
+    "category_id": "7",
+    "frequency_prob": "0.025",
+    "frequency": "10"
+  },
+  {
+    "ingredient_id": "43",
+    "category_id": "7",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "29",
+    "category_id": "7",
+    "frequency_prob": "0.0225",
+    "frequency": "9"
+  },
+  {
+    "ingredient_id": "26",
+    "category_id": "7",
+    "frequency_prob": "0.0125",
+    "frequency": "5"
+  },
+  {
+    "ingredient_id": "160",
+    "category_id": "7",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "13",
+    "category_id": "5",
+    "frequency_prob": "0.1875",
+    "frequency": "75"
+  },
+  {
+    "ingredient_id": "161",
+    "category_id": "5",
+    "frequency_prob": "0.0875",
+    "frequency": "35"
+  },
+  {
+    "ingredient_id": "25",
+    "category_id": "5",
+    "frequency_prob": "0.035",
+    "frequency": "14"
+  },
+  {
+    "ingredient_id": "8",
+    "category_id": "5",
+    "frequency_prob": "0.0525",
+    "frequency": "21"
+  },
+  {
+    "ingredient_id": "162",
+    "category_id": "5",
+    "frequency_prob": "0.0525",
+    "frequency": "21"
+  },
+  {
+    "ingredient_id": "163",
+    "category_id": "5",
+    "frequency_prob": "0.0725",
+    "frequency": "29"
+  },
+  {
+    "ingredient_id": "5",
+    "category_id": "5",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "164",
+    "category_id": "5",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "165",
+    "category_id": "5",
+    "frequency_prob": "0.0325",
+    "frequency": "13"
+  },
+  {
+    "ingredient_id": "46",
+    "category_id": "5",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "70",
+    "category_id": "5",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "4",
+    "category_id": "5",
+    "frequency_prob": "0.05",
+    "frequency": "20"
+  },
+  {
+    "ingredient_id": "3",
+    "category_id": "5",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "84",
+    "category_id": "5",
+    "frequency_prob": "0.02",
+    "frequency": "8"
+  },
+  {
+    "ingredient_id": "79",
+    "category_id": "5",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "78",
+    "category_id": "5",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "167",
+    "category_id": "5",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "168",
+    "category_id": "5",
+    "frequency_prob": "0.0125",
+    "frequency": "5"
+  },
+  {
+    "ingredient_id": "112",
+    "category_id": "5",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "166",
+    "category_id": "5",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "69",
+    "category_id": "5",
+    "frequency_prob": "0.01",
+    "frequency": "4"
+  },
+  {
+    "ingredient_id": "169",
+    "category_id": "5",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  },
+  {
+    "ingredient_id": "108",
+    "category_id": "1",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "93",
+    "category_id": "2",
+    "frequency_prob": "0.1",
+    "frequency": "40"
+  },
+  {
+    "ingredient_id": "72",
+    "category_id": "2",
+    "frequency_prob": "0.055",
+    "frequency": "22"
+  },
+  {
+    "ingredient_id": "170",
+    "category_id": "2",
+    "frequency_prob": "0.02",
+    "frequency": "8"
+  },
+  {
+    "ingredient_id": "88",
+    "category_id": "2",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "125",
+    "category_id": "2",
+    "frequency_prob": "0.005",
+    "frequency": "2"
+  },
+  {
+    "ingredient_id": "182",
+    "category_id": "2",
+    "frequency_prob": "0.025",
+    "frequency": "10"
+  },
+  {
+    "ingredient_id": "122",
+    "category_id": "2",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "171",
+    "category_id": "2",
+    "frequency_prob": "0.015",
+    "frequency": "6"
+  },
+  {
+    "ingredient_id": "172",
+    "category_id": "2",
+    "frequency_prob": "0.0075",
+    "frequency": "3"
+  },
+  {
+    "ingredient_id": "173",
+    "category_id": "2",
+    "frequency_prob": "0.0175",
+    "frequency": "7"
+  },
+  {
+    "ingredient_id": "174",
+    "category_id": "2",
+    "frequency_prob": "0.0025",
+    "frequency": "1"
+  }
+]
