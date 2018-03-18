@@ -28,7 +28,13 @@ class Recipe {
         $recipeSize=$this->getRecipeSize();
 
         for($i=0; $i<$recipeSize; $i++){
-            $RecipeIngredients[] = $this->ProbabilityObj->getRandomElementWeightedProb($IngredientsArray);
+            $randIngrd = $this->ProbabilityObj->getRandomElementWeightedProb($IngredientsArray);
+            while(in_array($randIngrd,$RecipeIngredients)
+            {
+                $randIngrd = $this->ProbabilityObj->getRandomElementWeightedProb($IngredientsArray);
+            }
+            $RecipeIngredients[]  = $randIngrd;
+
         }
 
         return $RecipeIngredients;
@@ -45,8 +51,12 @@ class Recipe {
         $CategoriesWeightedIngredients = $this->DataProcessingObj->getCategoriesMappedWithWeightedIngredients($IngredientsInfo,$RecipeCategoryUsage);
 
         for($i=0; $i<$RecipeSize; $i++){
-            $randomElement = $this->ProbabilityObj->getRandomElement($CategoriesWeightedIngredients[1]);
-            $RecipeIngredients[$i] = $randomElement['ingredient_id'];
+            $randIngrd = $this->ProbabilityObj->getRandomElement($CategoriesWeightedIngredients[1]);
+            while(in_array($randIngrd,$RecipeIngredients)
+            {
+                $randIngrd = $this->ProbabilityObj->getRandomElement($CategoriesWeightedIngredients[1]);
+            }
+            $RecipeIngredients[$i] = $randIngrd['ingredient_id'];
         }
 
         return $RecipeIngredients;
@@ -82,7 +92,13 @@ class Recipe {
         $IngredientsInfo = $this->DataProcessingObj->readFile('ingredients');
         $CategoriesIngredients = $this->DataProcessingObj->getCategoriesMappedWithIngredients($IngredientsInfo);
         for($i=0; $i<$RecipeSize; $i++){
-            $RecipeIngredients[$i] = $this->ProbabilityObj->getRandomElement($CategoriesIngredients[1]);
+
+            $randIngrd = $this->ProbabilityObj->getRandomElement($CategoriesIngredients[1]);
+            while(in_array($randIngrd,$RecipeIngredients)
+            {
+                $randIngrd = $this->ProbabilityObj->getRandomElement($CategoriesIngredients[1]);
+            }
+            $RecipeIngredients[$i]  = $randIngrd;
         }
 
         return $RecipeIngredients;
